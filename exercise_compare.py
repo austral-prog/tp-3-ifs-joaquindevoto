@@ -26,4 +26,3 @@ def compare():
     else:
         print(f"{numero1} es igual a {numero2}")
 
-
