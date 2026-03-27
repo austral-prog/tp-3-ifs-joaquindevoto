@@ -29,7 +29,3 @@ f positive():
         print("El numero es cero")
 
 
-
-    else:
-        print("El numero es cero")
-
