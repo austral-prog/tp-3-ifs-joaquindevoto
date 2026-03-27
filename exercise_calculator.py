@@ -40,3 +40,4 @@ def calculator():
         print(f"Resultado: {numero1/numero2}")
     else:
         print("Operacion invalida")
+ 
