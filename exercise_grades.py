@@ -1,6 +1,3 @@
-from xml.dom.pulldom import PROCESSING_INSTRUCTION
-
-
 def grades():
     """
     Ejercicio 5 - Clasificar Notas
