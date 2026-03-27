@@ -26,3 +26,5 @@ def triangle():
         print("Los lados forman un triangulo valido")
     else:
         print("Los lados no forman un triangulo valido")
+
+
