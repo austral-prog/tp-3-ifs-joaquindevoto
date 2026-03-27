@@ -49,10 +49,3 @@ def password():
         print("Debe contener un numero")
 
 
-
-
-        Para la entrada "abc", la salida esperada es:
-        Contraseña muy corta
-        Debe contener un numero
-    """
-    pass
