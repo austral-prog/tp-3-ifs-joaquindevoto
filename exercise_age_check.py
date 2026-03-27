@@ -29,4 +29,4 @@ def age_check():
           print("Eres menor de edad")
     else:
         print("Entrada invalida")
-
+ 
