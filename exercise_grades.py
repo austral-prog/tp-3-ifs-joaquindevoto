@@ -1,3 +1,6 @@
+from xml.dom.pulldom import PROCESSING_INSTRUCTION
+
+
 def grades():
     """
     Ejercicio 5 - Clasificar Notas
@@ -18,4 +21,19 @@ def grades():
         Para la entrada "3", la salida esperada es:
         Insuficiente
     """
-    pass
+
+    nota= int(input())
+
+    if nota >=9:
+        print("Excelente")
+
+    elif nota >=7 and nota <=8:
+        print("Bueno")
+
+    elif nota >=5 and nota <=6:
+        print("Regular")
+
+    else:
+        print("Insuficiente")
+
+
