@@ -37,12 +37,4 @@ def grades():
         print("Insuficiente")
 
 
-        print("Bueno")
-
-    elif nota >=5 and nota <=6:
-        print("Regular")
-
-    else:
-        print("Insuficiente")
-
 
