@@ -25,4 +25,3 @@ def weekday():
     else:
         print("Fin de semana")
 
-
