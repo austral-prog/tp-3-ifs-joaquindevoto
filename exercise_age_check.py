@@ -4,7 +4,7 @@ def age_check():
 
     Leer una edad y un límite de edad mediante input(). Verificar que ambos números sean
     válidos (positivos), y luego determinar si la persona es mayor de edad comparando
-    con el límite ingresado.
+    con el límite ingresado. 
 
     Si alguno de los números es negativo o cero, imprimir "Entrada invalida".
 
