@@ -1,4 +1,4 @@
-f positive():
+def positive():
     """
     Ejercicio 1 - Clasificar Número
 
@@ -21,10 +21,8 @@ f positive():
 
     if numero > 0:
         print("El numero es positivo")
-
     elif numero < 0:
         print("El numero es negativo")
-
     else:
         print("El numero es cero")
 
